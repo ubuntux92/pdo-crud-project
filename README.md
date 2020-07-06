@@ -14,3 +14,5 @@ Create database and table like SQL command below:
   email varchar(255),
   password varchar(255)
   );
+
+Thanks to : ditatompel
